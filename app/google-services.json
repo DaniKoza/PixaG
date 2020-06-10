@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "486445164641",
+    "firebase_url": "https://flickr-7f394.firebaseio.com",
+    "project_id": "flickr-7f394",
+    "storage_bucket": "flickr-7f394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486445164641:android:ce31f922d72fd2a166e220",
+        "android_client_info": {
+          "package_name": "com.example.pixa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486445164641-8psasvpq80bg2gnu2i717f585gjdb89v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pixa",
+            "certificate_hash": "7e5ff6edcfb7663f862fcef72ee867c683a224ac"
+          }
+        },
+        {
+          "client_id": "486445164641-fjtmfco9pft5hmdvecr9ff7k76gn7mbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pixa",
+            "certificate_hash": "f3142a945caa53f23ddb256067fccc41ac60db0d"
+          }
+        },
+        {
+          "client_id": "486445164641-t8hh62voheaosk4ombu7cak23pp665bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwV8ZU6JlJU4C0x6VqzNtA4rskXMJsvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486445164641-t8hh62voheaosk4ombu7cak23pp665bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486445164641:android:d3839161c65b97c066e220",
+        "android_client_info": {
+          "package_name": "com.example.pixag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486445164641-2uvpecrsuu6a6kvavb3eud5spckbtdv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pixag",
+            "certificate_hash": "7e5ff6edcfb7663f862fcef72ee867c683a224ac"
+          }
+        },
+        {
+          "client_id": "486445164641-t8hh62voheaosk4ombu7cak23pp665bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwV8ZU6JlJU4C0x6VqzNtA4rskXMJsvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486445164641-t8hh62voheaosk4ombu7cak23pp665bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

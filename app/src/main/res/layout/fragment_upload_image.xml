@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/final_upload_lay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragments.UploadImageFragment">
+
+    <ImageView
+        android:id="@+id/imageView_picture"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="4"
+        android:autofillHints="Upload an image"
+        android:src="@drawable/ic_baseline_image"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/BTN_choose_file"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/button_shape_gray"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="5"
+            android:shadowDy="5"
+            android:shadowRadius="5"
+            android:text="Choose File"
+            android:textAllCaps="false"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:layout_weight="1"
+            android:layout_margin="8dp"
+            android:fontFamily="casual"/>
+
+        <Button
+            android:id="@+id/BTN_upload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/button_shape_gray"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="5"
+            android:shadowDy="5"
+            android:shadowRadius="5"
+            android:text="Upload"
+            android:textAllCaps="false"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:layout_weight="1"
+            android:layout_margin="8dp"
+            android:fontFamily="casual"/>
+    </LinearLayout>
+
+</LinearLayout>

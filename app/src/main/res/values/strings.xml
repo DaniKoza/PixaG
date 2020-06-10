@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PixaG</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="code_will_be_sent_to_your_phone">Code will be sent to your phone</string>
+    <string name="enter">Enter</string>
+    <string name="phone_number_here">Phone number here</string>
+    <string name="type_in_your_phone_number">Type in your phone number to authenticate:</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="code_will_be_auto_loaded">Code will be automatically loaded</string>
+    <string name="enter_code_here">Enter code here</string>
+    <string name="login">Login</string>
+    <string name="search_image">Search image</string>
+    <string name="likes">Likes:</string>
+    <string name="downloads">Downloads:</string>
+    <string name="number_of_views">Number of views:</string>
+    <string name="tags">Tags:</string>
+    <string name="number_zero">0</string>
+    <string name="no_tags_yet">no tags yet</string>
+    <string name="back">Back</string>
+
+</resources>
